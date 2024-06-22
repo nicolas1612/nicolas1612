@@ -6,10 +6,10 @@
 <h2>My Activity</h2>
 
 <a href="">
-  <img width="64.45%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotLuxPI&theme=github" />
+  <img width="64.45%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolas1612&theme=github" />
 </a>
 <a href="">
-  <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotLuxPI&layout=donut"/>
+  <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1612&layout=donut"/>
 </a>
 
 <br />
